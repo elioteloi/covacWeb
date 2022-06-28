@@ -1,0 +1,1874 @@
+[
+    {
+        "pais": "Afeganistão",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Albânia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty", 
+        "Gamaleya: Sputnik V", 
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Argélia",
+        "vacinas": [
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Angola",
+        "vacinas": [
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        
+        ]
+    },
+    {
+        "pais": "Antigua e Barbuda",
+        "vacinas": [
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Argentina",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "CanSino: Convidecia",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac",
+        "Gamaleya: Sputnik Light",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Armênia",
+        "vacinas": [
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    }, 
+    {
+        "pais": "Austrália",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    }, 
+    {
+        "pais": "Áustria",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    }, 
+    {
+        "pais": "Azerbaijão",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Bahamas",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield"
+        ]
+    }, 
+    {
+        "pais": "Barein",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo",
+        "Valneva: VLA2001"
+        ]
+    },
+    {
+        "pais": "Bangladesh",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+       "pais": "Barbados",
+       "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+       ] 
+    },
+    {
+        "pais": "Bielo-Rússia",
+        "vacinas": [
+        "Gamaleya: Sputnik V",
+        "Gamaleya: Sputnik Light",
+        "Chumakov Center: KoviVac",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Bélgica",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Belize",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+
+        ]         
+    },
+    {
+        "pais": "Benin",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"    
+        ]
+    },
+    {
+        "pais": "Bermudas",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    }, 
+    {
+        "pais": "Butão",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Bolivia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac" 
+        ]
+    },
+    {
+        "pais": "Bósnia e Herzegovina",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Botsuana",
+        "vacinas": [
+        "Biological E Limited: Corbevax",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Bharat Biotech: Covaxin",
+        "Sinovac: CoronaVac"
+        ]
+    }, 
+    {
+        "pais": "Brasil",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    }, 
+    {
+        "pais": "Brunei",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Bulgária",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Burquina Fasso",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Burundi",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Costa do Marfim",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Cabo Verde",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria"  
+        ]
+    },
+    {
+        "pais": "Cambodia",
+        "vacinas": [
+        "Vector State Research Center of Virology and Biotechnology: EpiVacCorona",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Chumakov Center: KoviVac",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+       "pais": "Camarões",
+       "vacinas": [
+       "Pfizer/BioNTech: Comirnaty",  
+       "Gamaleya: Sputnik V",
+       "Janssen (Johnson & Johnson): Ad26.COV2.S",
+       "Oxford/AstraZeneca: Vaxzevria",
+       "Sinopharm: Covilo"
+       ] 
+    }, 
+    {
+        "pais": "Canada",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Medicago: Covifenz",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "República Centro-Africana",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+       "pais": "Chade",
+       "vacinas": [
+       "Sinopharm: Covilo"
+       ]
+    },
+    {
+        "pais": "Chile",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "CanSino: Convidecia",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "China",
+        "vacinas": [
+        "Anhui Zhifei Longcom: Zifivax",
+        "CanSino: Convidecia",
+        "Shenzhen Kangtai Biological Products: CoKCONVAC",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Colombia",
+        "vacinas": [
+        "Anhui Zhifei Longcom: Zifivax",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Comores",
+        "vacinas": [
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+       "pais": "Costa Rica",
+       "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria"
+       ] 
+    },
+    {
+        "pais": "Croácia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Cuba",
+        "vacinas": [
+        "Center for Genetic Engineering and Biotechnology (CIGB): Abdala",
+        "Instituto Finlay de Vacunas Cuba: Soberana 02",
+        "Instituto Finlay de Vacunas Cuba: Soberana Plus",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Chipre",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Chéquia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "República Democrática do Congo",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Dinamarca",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S"
+        ]
+    },
+    {
+        "pais": "Djibouti",
+        "vacinas": [
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Dominica",
+        "vacinas": [
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "República Dominicana",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Equador",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "CanSino: Convidecia",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Egito",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "El Salvador",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Guiné Equatorial",
+        "vacinas": [
+        "Sinopharm: Covilo"
+        ]
+    }, 
+    {
+        "pais": "Estónia", 
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Essuatíni",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Etiópia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Ilhas Feroe",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Moderna: Spikevax",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S"
+        ]
+    }, 
+    {
+        "pais": "Fiji",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Finlândia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "França",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    }, 
+    {
+        "pais": "Gabão",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Gâmbia",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Geórgia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Alemanha",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Gana",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Grécia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Groenlândia",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty"
+        ]
+    },
+    {
+        "pais": "Granada",
+        "vacinas": [
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Guatemala",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Guiné",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V"
+        ]
+    },
+    {
+        "pais": "Guiné-Bissau",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Guiana",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo"
+        ]  
+    },
+    {
+        "pais": "Haiti",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Honduras",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Moderna: Spikevax",
+        "Gamaleya: Sputnik V",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Hong Kong",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Hungria",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "CanSino: Convidecia",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    }, 
+    {
+        "pais": "Islândia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Índia",
+        "vacinas": [
+        "Serum Institute of India: COVOVAX",
+        "Biological E Limited: Corbevax",
+        "Zydus Cadila: ZyCoV-D",
+        "Moderna: Spikevax",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Bharat Biotech: Covaxin"
+        ]
+    },
+    {
+        "pais": "Indonésia",
+        "vacinas": [
+        "Anhui Zhifei Longcom: Zifivax",
+        "Serum Institute of India: COVOVAX",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "CanSino: Convidecia",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Shenzhen Kangtai Biological Products Co: KCONVAC",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Irã",
+        "vacinas": [
+        "Bagheiat-allah University of Medical Sciences: Noora vaccine",
+        "Instituto Finlay de Vacunas Cuba: Soberana 02",
+        "Razi Vaccine and Serum Research Institute: Razi Cov Pars",
+        "Vaxine/CinnaGen Co.: SpikoGen",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Bharat Biotech: Covaxin",
+        "Organization of Defensive Innovation and Research: FAKHRAVAC",
+        "Shifa Pharmed Industrial Co: COVIran Barekat",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Iraque",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+
+        ]
+    },
+    {
+        "pais": "Irlanda",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S"
+        ]
+    },
+    {
+        "pais": "Israel",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty"
+        ]
+    },
+    {
+        "pais": "Itália",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Jamaica",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Japão",
+        "vacinas": [
+        "Takeda: TAK-019",
+        "Pfizer/BioNTech: Comirnaty",
+        "Takeda: TAK-919",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Jordânia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Cazaquistão",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Research Institute for Biological Safety Problems: Research Institute for Biological Safety Problems: ",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Quénia",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Kosovo",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Kuwait",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Quirguistão",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Research Institute for Biological Safety Problems: QazVac",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Laos",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Letónia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+
+        ]
+    },
+    {
+        "pais": "Líbano",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Lesotho",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Libéria",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Líbia",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Liechtenstein",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"  
+        ]
+    },
+    {
+        "pais": "Lituânia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Luxemburgo",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Madagáscar",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+    ]
+    },
+    {
+        "pais": "Malawi",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Malásia",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "CanSino: Convidecia",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Maldivas",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Mali",
+        "vacinas": [
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Malta",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Mauritânia",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Maurícia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Mexico",
+        "vacinas": [
+        "Center for Genetic Engineering and Biotechnology: Abdala",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "CanSino: Convidecia",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Micronésia",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S"
+        ]
+    },
+    {
+        "pais": "Mônaco",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty"
+        ]
+    },
+    {
+        "pais": "Mongólia",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Montenegro",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Marrocos",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Moçambique",
+        "vacinas": [
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Birmânia",
+        "vacinas": [
+        "Gamaleya: Sputnik V",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Namíbia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Nauru",
+        "vacinas": [
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Nepal",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "paises Baixos",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Nova Zelândia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Nicarágua",
+        "vacinas": [
+        "Center for Genetic Engineering and Biotechnology: Abdala",
+        "Instituto Finlay de Vacunas Cuba: Soberana 02",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Niger",
+        "vacinas": [
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Nigeria",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Niue",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty"
+        ]
+    },
+    {
+        "pais": "Macedônia do Norte",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Noruega",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S"
+        ]
+    },
+    {
+        "pais": "Omã",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+
+        ]
+    },
+    {
+        "pais": "Paquistão",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "CanSino: Convidecia",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Panamá",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Papua-Nova Guiné",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Paraguai",
+        "vacinas": [
+        "Medigen: MVC-COV1901",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Peru",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Filipinas",
+        "vacinas": [
+        "Serum Institute of India: Covishield",
+        "Pfizer/BioNTech: Comirnaty",
+        "Moderna: Spikevax",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Polónia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Portugal",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Porto Rico",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Moderna: Spikevax",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S"
+        ]
+    },
+    {
+        "pais": "Catar",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty"
+        ]
+    },
+    {
+        "pais": "Coreia do Sul",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Moldávia", 
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Pfizer/BioNTech: Comirnaty",
+        "CanSino: Convidecia",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    }, 
+    {
+        "pais": "República do Congo",
+        "vacinas": [
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Romênia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Rússia",
+        "vacinas": [
+        "Vector State Research Center of Virology and Biotechnology: Aurora-CoV",
+        "Vector State Research Center of Virology and Biotechnology: EpiVacCorona",
+        "Gamaleya: Gam-COVID-Vac",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Chumakov Center: KoviVac"
+        ]
+    },
+    {
+        "pais": "Ruanda",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    }, 
+    {
+        "pais": "São Cristóvão e Neves",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Santa Lúcia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "São Vicente e Granadinas",
+        "vacinas": [
+        "Center for Genetic Engineering and Biotechnology: Abdala",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "San marino",
+        "vacinas": [
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V"
+        ]
+    },
+    {
+        "pais": "São Tomé e Príncipe",
+        "vacinas": [
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Arábia Saudita",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Senegal",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Sérvia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Seicheles",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Gamaleya: Sputnik V",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Serra Leoa",
+        "vacinas": [
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Singapura",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Eslováquia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Eslovénia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Ilhas Salomão",
+        "vacinas": [
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Somália",
+        "vacinas": [
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Somalilândia",
+        "vacinas": [
+        "Medigen: MVC-COV1901"
+        ]
+    },
+    {
+        "pais": "África do Sul",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Sudão do Sul",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Espanha", 
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Sri Lanka",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Sudão",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Suriname",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Suécia",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Suíça",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S"
+        ]
+    },
+    {
+        "pais": "Síria",
+        "vacinas": [
+        "Gamaleya: Sputnik V",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Taiwan",
+        "vacinas": [
+        "Medigen: MVC-COV1901",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Tajiquistão",
+        "vacinas": [
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Thailand",
+        "vacinas": [
+        "Serum Institute of India: COVOVAX",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Timor-Leste",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    }, 
+    {
+        "pais": "Togo",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Toquelau",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty"
+        ]
+    },
+    {
+        "pais": "Tonga",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Serum Institute of India: Covishield"
+        ]
+    },
+    {
+        "pais": "Trindade e Tobago",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Tunisia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Turquia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Health Institutes of Turkey: Turkovac",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Turquemenistão",
+        "vacinas": [
+        "Vector State Research Center of Virology and Biotechnology: EpiVacCorona",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V"
+        ]
+    },
+    {
+        "pais": "Uganda",
+        "vacinas": [
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Ucrânia",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Serum Institute of India: Covishield",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Emirados Árabes Unidos",
+        "vacinas": [
+        "National Vaccine and Serum Institute: Recombinant SARS-CoV-2 Vaccine (CHO Cell)",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Reino Unido",
+        "vacinas": [
+        "Novavax: Nuvaxovid",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Valneva: VLA2001"
+        ]
+    },
+    {
+        "pais": "Tanzânia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Estados Unidos",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Moderna: Spikevax",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S"
+        ]
+    },
+    {
+        "pais": "Uruguai",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Uzbequistão",
+        "vacinas": [
+        "Anhui Zhifei Longcom: Zifivax",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    },
+    {
+        "pais": "Vanuatu",
+        "vacinas": [
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Vaticano",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty"
+        ]
+    },
+    {
+        "pais": "Venezuela",
+        "vacinas": [
+        "Center for Genetic Engineering and Biotechnology: Abdala",
+        "Instituto Finlay de Vacunas Cuba: Soberana 02",
+        "Vector State Research Center of Virology and Biotechnology: EpiVacCorona",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    },
+    {
+        "pais": "Vietnã",
+        "vacinas": [
+        "Center for Genetic Engineering and Biotechnology: Abdala",
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik V",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Cisjordânia",
+        "vacinas": [
+        "Moderna: Spikevax",
+        "Pfizer/BioNTech: Comirnaty",
+        "Gamaleya: Sputnik Light",
+        "Gamaleya: Sputnik V",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Iémen",
+        "vacinas": [
+        "Oxford/AstraZeneca: Vaxzevria"
+        ]
+    }, 
+    {
+        "pais": "Zâmbia",
+        "vacinas": [
+        "Pfizer/BioNTech: Comirnaty",
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Oxford/AstraZeneca: Vaxzevria",
+        "Sinopharm: Covilo"
+        ]
+    },
+    {
+        "pais": "Zimbabwe",
+        "vacinas": [
+        "Janssen (Johnson & Johnson): Ad26.COV2.S",
+        "Gamaleya: Sputnik V",
+        "Bharat Biotech: Covaxin",
+        "Sinopharm: Covilo",
+        "Sinovac: CoronaVac"
+        ]
+    }
+]
+
