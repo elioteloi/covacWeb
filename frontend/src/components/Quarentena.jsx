@@ -1,9 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
-import { Link } from "react-router-dom";
 import Navigation from "./navigation/Navigation"
-import Nav from "./navigation/Navigation";
-
 
 function Formulario() {
   const [name, setName] = useState("")
@@ -51,10 +48,7 @@ function Formulario() {
   transform: 'translate(106%, 50%)',
   }
   
-  const text = {
-    fontFamily: "Verdana",
-   
-  }
+
 
   return (
     <div>

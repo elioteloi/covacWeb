@@ -19,14 +19,7 @@ const Nav = () => {
         listStyle: "none",  
                   
     }
- 
-    const navLinks = { 
-        width: "90%",
-        display: "flex",
-        justifyContent: "space-around",
-        listStyle: "none",
-    }
-
+    
     const link = {
         color: "black",
         textDecoration: "none",

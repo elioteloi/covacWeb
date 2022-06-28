@@ -30,6 +30,7 @@ const Home = () => {
             fontSize: 28,
             margin:30,
             color: "black",
+            fontFamily: "Verdana",
           }
         
           const textTitle = {
@@ -37,6 +38,7 @@ const Home = () => {
             fontSize: 60,
             margin: 10,
             color: "black",
+            fontFamily: "Verdana",
           }
         
           const alignText = {
@@ -90,14 +92,6 @@ const Home = () => {
             margin: "40px 80px", 
             textAlign: "center",
        
-        }
-     
-        const navLinks = { 
-            border: "black",
-            width: "90%",
-            display: "flex",
-            justifyContent: "space-around",
-            listStyle: "none",
         }
 
         const link = {

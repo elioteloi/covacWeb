@@ -1,12 +1,13 @@
-import React, { useState, useEffect } from 'react';
-import axios from 'axios'
+import React, { useState } from 'react';
+// import { useEffect } from 'react';
+// import axios from 'axios'
 import Navigation from "./navigation/Navigation"
 
-  
+import data from "../vacinas.json"
 
 const Vacinas = () => {
 
-  const [data, setData] = useState([]);
+  // const [data, setData] = useState([]);
   const [query, setQuery] = useState("")
 
   const search = {
@@ -52,16 +53,16 @@ const Vacinas = () => {
      
   }
 
-  useEffect(() => {
-    axios.get("http://localhost:8080/vacina")
-        .then(res => {
-            console.log(res)
-            setData(res.data)
-          })
-        .catch(err => {
-            console.log(err);
-        })
-  })
+  // useEffect(() => {
+  //   axios.get("http://localhost:8080/vacina")
+  //       .then(res => {
+  //           console.log(res)
+  //           setData(res.data)
+  //         })
+  //       .catch(err => {
+  //           console.log(err);
+  //       })
+  // })
 
 return (
        <div>
