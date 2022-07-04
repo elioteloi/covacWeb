@@ -22,13 +22,6 @@ const area = {
 
 }
 
-const textError = {
-  textAlign: "center",
-  color: "black",
-  fontFamily: "Verdana",  
-  margin: 10, 
-}
-
 const input = {
   textAlign: "center",
   backgroundColor: "#f0f8ff",
@@ -66,7 +59,7 @@ const image = {
 
   return (
     <form style={area}>
-      <h1 style={text}>Sign in</h1>
+      <h1 style={text}>Registrar</h1>
       
       <input type="text" placeholder="name" style={input} value={username} onChange={(e) => setUsername(e.target.value)}></input>
       <input type="email" placeholder="email" style={input} value={email} onChange={(e) => setEmail(e.target.value)}></input>
@@ -82,11 +75,11 @@ const image = {
           vaccine
          
         }).then(res => console.log("Posting data", res))
-      }} style={button}>Sign in</button>
+      }} style={button}>Registrar</button>
     </Link>
 
     <Link to="/login">
-    <button className="Button" style={button}>Go to Login</button>
+    <button className="Button" style={button}>Ir para Login</button>
     </Link>
     <img src={covacLogo} alt="covacLogo" style={image}/>
 

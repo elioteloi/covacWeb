@@ -56,7 +56,7 @@ return(
       <Navigation/>
     <input
     style={search}
-    placeholder={"pequise o seu hospital..."}
+    placeholder={"Pequise o seu país..."}
     onChange={e => setQuery(e.target.value)}
     />
       <ol>

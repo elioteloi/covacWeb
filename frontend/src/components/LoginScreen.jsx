@@ -77,7 +77,7 @@ const image = {
       </Link>
 
       <Link to="/signin">
-    <button className="Button" style={button}>Go to Sign in</button>
+    <button className="Button" style={button}>Ir para Registrar</button>
     </Link>
      <img src={covacLogo} alt="covacLogo" style={image}/>
     </form>

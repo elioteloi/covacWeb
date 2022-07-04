@@ -51,7 +51,7 @@ const textTitle = {
         </Link>
 
         <Link to="/dicas/mascara">
-        <button style = {button}>Mascara</button>
+        <button style = {button}>Máscara</button>
         </Link>
         </div>
         </div>

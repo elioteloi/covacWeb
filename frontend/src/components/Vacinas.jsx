@@ -69,7 +69,7 @@ return (
        <Navigation/>
      <input
     style={search}
-    placeholder={"pequise a sua vacina..."}
+    placeholder={"Pesquise a sua vacina..."}
     onChange={e => setQuery(e.target.value)}
     /> 
       {

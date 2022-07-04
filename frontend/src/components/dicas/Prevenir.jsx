@@ -29,9 +29,9 @@ const prevenir  = () => {
       <div>
         <div style={alignText}>
         <h1 style={textTitle}><bold>Prevenir a não contaminação de COVID-19{"\n"}</bold></h1>
-
-        <div><h1 style={text}>As medidas indicadas pela <bold>OMS (Organização Mundial da Saude)</bold> estão indicadas as medidas de: <bold>DISTANCIAMENTO SOCIAL, HIGIENIZAÇÃO DAS MÃOS,</bold> uso de 
-         <bold>{"\n"}MASCARA,{"\n"}</bold> Em casos de suspeita de contaminação de{"\n"}<bold>COVID-19</bold> e recomendado o <bold>ISOLAMENTO SOCIAL</bold>{"\n"}</h1></div>
+<br/>
+        <div><h1 style={text}>As medidas indicadas pela <bold>OMS (Organização Mundial da Saude)</bold> são: <br/><bold>DISTANCIAMENTO SOCIAL, HIGIENIZAÇÃO DAS MÃOS,</bold> USO 
+         <bold>{"\n"}DE MASCARA.{"\n"}</bold> Em casos de suspeita de contaminação de{"\n"}<bold>COVID-19</bold> é recomendado o <bold>ISOLAMENTO SOCIAL</bold>{"\n"}</h1></div>
         </div>
       </div>
     )

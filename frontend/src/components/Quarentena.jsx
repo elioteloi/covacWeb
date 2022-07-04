@@ -57,21 +57,21 @@ function Formulario() {
         <form>
             <div>
                
-            <input type="text"  style={input} placeholder="Nome"  value={name} onChange={(e) => setName(e.target.value)}></input>
-        <input type="email" style={input} placeholder="email"  value={email} onChange={(e) => setEmail(e.target.value)}></input>
-        <input type="text"  style={input} placeholder="Numero de celular"  value={cellNumber} onChange={(e) => setCellNumber(e.target.value)}></input>
+        <input type="text"  style={input} placeholder="Nome"  value={name} onChange={(e) => setName(e.target.value)}></input>
+        <input type="email" style={input} placeholder="Email"  value={email} onChange={(e) => setEmail(e.target.value)}></input>
+        <input type="text"  style={input} placeholder="Número de celular"  value={cellNumber} onChange={(e) => setCellNumber(e.target.value)}></input>
 
             </div>
             <div >
-            <input type="text"  style={input} placeholder="Data de diagnostico"  value={dateOfDiagnostic} onChange ={(e) => setDateOfDiagnostic(e.target.value)}></input>
+        <input type="text"  style={input} placeholder="Data de diagnostico"  value={dateOfDiagnostic} onChange ={(e) => setDateOfDiagnostic(e.target.value)}></input>
         <input type="text"  style={input} placeholder="Data de sua quarentena"  value={dateOfLockdown} onChange={(e) => setDateOfLockdown(e.target.value)}></input>
-        <input type="text"  style={input} placeholder="lugar que teve covid"  value={placeOfCovid} onChange={(e) => setPlaceOfCovid(e.target.value)}></input>
+        <input type="text"  style={input} placeholder="Onde pode ter sido contaminado?"  value={placeOfCovid} onChange={(e) => setPlaceOfCovid(e.target.value)}></input>
 
           
             </div>
             <div>
                <input type="text"  style={input} placeholder="Nome de sua vacina"  value={nameOfVaccine} onChange={(e) => setNameOfVaccine(e.target.value)}></input>
-        <input type="text"  style={input} placeholder="N° de pessoas em contato"  value={numberOfPeople} onChange ={(e) => setNumberOfPeople(e.target.value)}></input>
+        <input type="text"  style={input} placeholder="N° de pessoas que teve contato"  value={numberOfPeople} onChange ={(e) => setNumberOfPeople(e.target.value)}></input>
         <input type="text"  style={input} placeholder="Sintomas"  value={symptoms} onChange ={(e) => setSymptoms(e.target.value)}></input>
             </div>
            <div>
@@ -87,7 +87,7 @@ function Formulario() {
             numberOfPeople,
             symptoms
           }).then(res => console.log("Posting data", res))
-        }}>Enviar formulario</button>
+        }}>Enviar formulário</button>
            </div>
         </form>
         
